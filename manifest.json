@@ -1,0 +1,17 @@
+{
+  "name": "Serial Test",
+  "version": "1",
+  "manifest_version": 2,
+  "permissions": ["serial","tabs"],
+  "minimum_chrome_version": "23",
+  "icons": {
+    "128": "carenation-128.png"
+
+  },
+  "app": {
+    "background": {
+      "scripts": ["launch.js","jquery.js"],
+      "transient": true
+    }
+  }
+}
