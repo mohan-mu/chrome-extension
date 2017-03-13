@@ -5,7 +5,7 @@
   "permissions": ["serial","tabs"],
   "minimum_chrome_version": "23",
   "icons": {
-    "128": "carenation-128.png"
+    "128": "untitled.png" //must add png file
 
   },
   "app": {
